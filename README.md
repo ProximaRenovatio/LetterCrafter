@@ -1,2 +1,3 @@
 # LetterCrafter
-Craft personalized AI-generated cover letters in seconds.
+
+Generate AI-powered cover letters with your CV and job description.
